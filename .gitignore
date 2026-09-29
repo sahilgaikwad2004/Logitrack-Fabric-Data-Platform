@@ -1,0 +1,25 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets - never commit these
+*.env
+.env
+**/local.settings.json
+**/*apikey*
+**/*secret*
+
+# Power BI Desktop local cache
+*.pbix.bak
+~$*.pbix
+
+# Fabric Git-integration temp files (if working with the CLI/Desktop tools locally)
+.fabric/

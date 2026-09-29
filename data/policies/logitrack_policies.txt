@@ -1,0 +1,109 @@
+LOGITRACK SHIPPING & DELIVERY POLICY
+Effective Date: January 1, 2026
+Document ID: POL-SHIP-001
+
+1. DELIVERY TIMEFRAMES BY REGION
+
+LogiTrack aims to deliver all orders within the following standard windows,
+measured from the date of shipment confirmation:
+
+- East Region: 3-6 business days (standard), 1-2 business days (express)
+- West Region: 4-7 business days (standard), 2-3 business days (express)
+- North Region: 3-5 business days (standard), 1-2 business days (express)
+- South Region: 4-6 business days (standard), 2-3 business days (express)
+
+Delivery estimates exclude weekends and public holidays. Rural or remote
+addresses within any region may experience an additional 1-3 business days.
+
+2. CARRIER PARTNERS
+
+LogiTrack partners with FedEx, UPS, DHL, and USPS. Carrier assignment is
+determined automatically based on package weight, destination, and current
+carrier capacity. Customers may not request a specific carrier for standard
+shipping tiers.
+
+3. DELAYED SHIPMENTS
+
+A shipment is classified as "Delayed" if it has not arrived within the
+standard delivery window stated in Section 1. When a shipment is marked
+Delayed in our tracking system:
+
+- The customer is automatically notified via email within 24 hours of the
+  delay being detected.
+- Customers may request a delivery status update at any time by contacting
+  support with their order ID.
+- If a shipment remains undelivered 5 business days beyond the original
+  estimate, the customer becomes eligible for a partial shipping cost refund
+  as described in the Refund Policy (POL-REF-001), Section 3.
+
+4. LOST SHIPMENTS
+
+A shipment is classified as "Lost" if there has been no tracking update for
+10 consecutive business days. Lost shipments are eligible for full refund
+or replacement at the customer's choice, per Refund Policy Section 4.
+
+5. VEHICLE AND FLEET OPERATIONS
+
+Regional deliveries within East, West, North, and South are supported by
+LogiTrack's owned fleet vehicles for last-mile delivery in major
+metropolitan areas, supplementing third-party carrier networks. Fleet
+vehicle assignments and routes are managed through the internal logistics
+system and are not customer-facing.
+
+
+---
+
+
+LOGITRACK REFUND & RETURN POLICY
+Effective Date: January 1, 2026
+Document ID: POL-REF-001
+
+1. GENERAL RETURN WINDOW
+
+Most items purchased through LogiTrack-fulfilled orders may be returned
+within 30 days of delivery for a full refund, provided the item is unused
+and in its original packaging. Certain product categories (see Section 5)
+have modified return windows.
+
+2. HOW TO INITIATE A RETURN
+
+Customers should contact support with their order ID and reason for return.
+Once approved, a prepaid return shipping label is issued. Refunds are
+processed within 5-7 business days of the returned item being received at
+our fulfillment center.
+
+3. DELAYED SHIPMENT REFUNDS
+
+If an order is marked "Delayed" per Shipping Policy Section 3, and remains
+undelivered 5 business days beyond the original delivery estimate, the
+customer is automatically eligible for a refund of 50% of the shipping cost
+paid on that order. This refund does not require the customer to initiate a
+return and is credited automatically to the original payment method within
+3 business days of eligibility being confirmed.
+
+4. LOST SHIPMENT REFUNDS
+
+If a shipment is classified as "Lost" per Shipping Policy Section 4, the
+customer may choose between:
+  (a) A full refund of the order total, including original shipping cost, or
+  (b) A full replacement shipment at no additional cost.
+
+5. NON-RETURNABLE AND MODIFIED-WINDOW ITEMS
+
+- Office furniture (e.g., desks, chairs): 14-day return window due to
+  assembly/wear considerations, subject to a 15% restocking fee if assembled.
+- Electronics (e.g., headphones, webcams): standard 30-day window, but must
+  include all original accessories and packaging.
+- Custom or made-to-order items: non-returnable except in cases of defect.
+
+6. DAMAGED OR DEFECTIVE ITEMS
+
+Items arriving damaged or defective are eligible for full refund or free
+replacement regardless of the standard return window, provided the customer
+reports the issue within 7 days of delivery with photo documentation.
+
+7. CANCELLED ORDERS
+
+Orders may be cancelled free of charge any time before the "Shipped" status
+is reached. Once a shipment has been dispatched, standard return procedures
+in Sections 1-2 apply instead of cancellation.

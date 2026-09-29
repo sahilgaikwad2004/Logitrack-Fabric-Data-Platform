@@ -1,0 +1,97 @@
+{
+  "name": "LogiTrack Professional",
+  "dataColors": [
+    "#0F4C81",
+    "#00A6A6",
+    "#F2A541",
+    "#6B4C9A",
+    "#E85D4C",
+    "#5B9BD5",
+    "#70AD47",
+    "#A5A5A5"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1A1A2E",
+  "tableAccent": "#0F4C81",
+  "good": "#2E8B57",
+  "neutral": "#F2A541",
+  "bad": "#E85D4C",
+  "maximum": "#0F4C81",
+  "center": "#00A6A6",
+  "minimum": "#D9E8F5",
+  "null": "#A5A5A5",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0F4C81"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1A1A2E"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1A1A2E"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#4A4A4A"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": false }],
+        "outline": [{ "show": false }],
+        "outlineColor": [{ "solid": { "color": "#E0E0E0" } }],
+        "outlineWeight": [{ "value": 1 }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": "#0F4C81",
+            "fontSize": 32,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": "#4A4A4A",
+            "fontSize": 12,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#0F4C81" } } }],
+        "categoryAxis": [{ "gridlineColor": { "solid": { "color": "#F0F0F0" } } }],
+        "valueAxis": [{ "gridlineColor": { "solid": { "color": "#F0F0F0" } } }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [{ "gridVertical": false, "rowPadding": 6 }],
+        "columnHeaders": [
+          {
+            "fontColor": "#FFFFFF",
+            "backColor": { "solid": { "color": "#0F4C81" } },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 11
+          }
+        ],
+        "values": [
+          { "fontFamily": "Segoe UI", "fontSize": 10, "backColorPrimary": { "solid": { "color": "#FFFFFF" } }, "backColorSecondary": { "solid": { "color": "#F7F9FC" } } }
+        ]
+      }
+    }
+  }
+}
